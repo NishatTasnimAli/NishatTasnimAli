@@ -37,10 +37,10 @@ I'm excited to be part of the thriving web development community on GitHub. Let'
 [![trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatTasnimAli)  
+![NishatTasnimAli's Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatTasnimAli) 
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatTasnimAli)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)](https://git.io/streak-stats)
-
-
