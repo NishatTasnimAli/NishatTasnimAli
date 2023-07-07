@@ -23,6 +23,7 @@ I'm excited to be part of the thriving web development community on GitHub. Let'
 
 ✅ MongoDB
 
+
 - 🔭 I’m currently working on WordPress Development 
 - 🌱 I’m currently learning React, NodeJS, Mongo DB, and Laravel 
 - 💬 Ask me about Web Development, Frontend Design 
@@ -40,6 +41,6 @@ I'm excited to be part of the thriving web development community on GitHub. Let'
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatTasnimAli)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=NishatTasnimAli)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/NishatTasnimAli)  
+
