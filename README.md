@@ -13,12 +13,12 @@ Beyond coding, I'm an avid learner, always exploring emerging technologies and i
 I'm excited to be part of the thriving web development community on GitHub. Let's connect, collaborate, and build amazing things together. Feel free to explore my repositories and join me on this coding journey.
 
 
-⭐ Skills:  
+- ⭐ Skills:  
 
-✅ REACT 
-✅ JS 
-✅ NodeJS 
-✅ MongoDB
+- ✅ REACT 
+- ✅ JS 
+- ✅ NodeJS 
+- ✅ MongoDB
 
 - 🔭 I’m currently working on WordPress Development 
 - 🌱 I’m currently learning React, NodeJS, Mongo DB, and Laravel 
@@ -31,8 +31,6 @@ I'm excited to be part of the thriving web development community on GitHub. Let'
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatTasnimAli)  
