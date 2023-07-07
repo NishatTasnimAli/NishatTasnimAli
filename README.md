@@ -1,4 +1,5 @@
-### Hi there 👋, Nishat Tasnim Ali
+# Hi there 👋, I'm Nishat Tasnim Ali
+
 I'm a passionate and dedicated web developer, constantly driven by curiosity and a desire to create exceptional digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I love crafting clean, elegant, and efficient code.
 
 My journey as a developer has taken me through various front-end frameworks and libraries, including React, and Larabel. I thrive on solving complex problems and turning ideas into functional, user-friendly websites.
@@ -12,7 +13,12 @@ Beyond coding, I'm an avid learner, always exploring emerging technologies and i
 I'm excited to be part of the thriving web development community on GitHub. Let's connect, collaborate, and build amazing things together. Feel free to explore my repositories and join me on this coding journey.
 
 
-Skills:  REACT / JS / NodeJS / MongoDB
+⭐ Skills:  
+
+✅ REACT 
+✅ JS 
+✅ NodeJS 
+✅ MongoDB
 
 - 🔭 I’m currently working on WordPress Development 
 - 🌱 I’m currently learning React, NodeJS, Mongo DB, and Laravel 
@@ -26,7 +32,6 @@ Skills:  REACT / JS / NodeJS / MongoDB
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnimAli)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&show_icons=true)  
 
