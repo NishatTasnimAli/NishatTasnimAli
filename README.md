@@ -13,12 +13,15 @@ Beyond coding, I'm an avid learner, always exploring emerging technologies and i
 I'm excited to be part of the thriving web development community on GitHub. Let's connect, collaborate, and build amazing things together. Feel free to explore my repositories and join me on this coding journey.
 
 
-- ⭐ Skills:  
+⭐ Skills:  
 
-- ✅ REACT 
-- ✅ JS 
-- ✅ NodeJS 
-- ✅ MongoDB
+✅ REACT 
+ 
+✅ JS 
+
+✅ NodeJS 
+
+✅ MongoDB
 
 - 🔭 I’m currently working on WordPress Development 
 - 🌱 I’m currently learning React, NodeJS, Mongo DB, and Laravel 
