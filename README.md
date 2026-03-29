@@ -53,7 +53,7 @@ Git, GitHub, REST APIs
 
 [GitHub](https://github.com/NishatTasnimAli)  
 [LinkedIn](https://www.linkedin.com/in/nishat-tasnim-ali-211968211/)  
-[Instagram](https://www.instagram.com/_nishu404_not_found_/)  
+[Instagram](https://www.instagram.com/_im_nishat_)  
 [YouTube](https://youtube.com/@nishattasnimali369)  
 
 ---
