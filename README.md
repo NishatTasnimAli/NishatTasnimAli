@@ -58,16 +58,14 @@ Git, GitHub, REST APIs
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Achievements  
 
-![Nishat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+![Nishat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&show_icons=true&theme=radical&count_private=true&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/NishatTasnimAli)
+<!-- GitHub Trophy -->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 🏆 Achievements  
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
