@@ -1,60 +1,73 @@
-# Hi there 👋, I'm Nishat Tasnim Ali
+# 👋 Hi, I'm Nishat Tasnim Ali  
 
-I'm a passionate and dedicated web developer, constantly driven by curiosity and a desire to create exceptional digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I love crafting clean, elegant, and efficient code.
+🚀 **Full-Stack Web Developer | JavaScript | React | Laravel | WordPress**  
 
-My journey as a developer has taken me through various front-end frameworks and libraries, including React, and Larabel. I thrive on solving complex problems and turning ideas into functional, user-friendly websites.
+I’m a results-driven web developer with a strong focus on building scalable, user-friendly, and high-performance web applications. I specialize in modern web technologies and enjoy transforming complex ideas into clean, efficient, and maintainable solutions.
 
-Driven by a user-centric approach, I believe in creating seamless and accessible experiences across different devices and browsers. I pay meticulous attention to detail and strive for pixel-perfect designs.
+With a solid foundation in HTML, CSS, and JavaScript, I’ve expanded my expertise into full-stack development using tools like React, Node.js, Laravel, and MongoDB.
 
-Collaboration is at the heart of my work. I thrive in team environments, where I can learn from and contribute to the collective knowledge. I believe that sharing ideas, knowledge, and code fosters growth and innovation.
+---
 
-Beyond coding, I'm an avid learner, always exploring emerging technologies and industry trends. I love to challenge myself, taking on new projects and acquiring new skills along the way.
+## 💼 What I Do  
 
-I'm excited to be part of the thriving web development community on GitHub. Let's connect, collaborate, and build amazing things together. Feel free to explore my repositories and join me on this coding journey.
+- Develop responsive and interactive web applications  
+- Build scalable front-end architectures using React  
+- Design and implement RESTful APIs  
+- Work with databases like MongoDB and MySQL  
+- Customize and develop WordPress solutions  
+- Focus on performance optimization and accessibility  
 
+---
 
- ## ⭐ Skills:  
+## 🛠️ Tech Stack  
 
+**Frontend:**  
+HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, React  
 
- ✅ BootStrap 5
- 
- ✅ PHP
- 
- ✅ REACT 
-  
- ✅ JS 
- 
- ✅ NodeJS 
- 
- ✅ MongoDB
- 
- ✅ Laravel
- 
- ✅ MySQL
+**Backend:**  
+Node.js, PHP, Laravel  
 
- ✅ C
+**Database:**  
+MongoDB, MySQL  
 
+**Other Tools:**  
+Git, GitHub, REST APIs  
 
+---
 
-- 🔭 I’m currently working on WordPress Development 
-- 🌱 I’m currently learning React, NodeJS, Mongo DB, and Laravel 
-- 💬 Ask me about Web Development, Frontend Design 
-- 📫 How to reach me: nishsohana@gmail.com
+## 🌱 Currently  
 
-  
+- 🔭 Working on WordPress Development Projects  
+- 🌱 Learning React, Node.js, MongoDB, and Laravel  
+- 💬 Ask me about Web Development & UI/UX Design  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NishatTasnimAli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishat-tasnim-ali-211968211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_nishu404_not_found_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@nishattasnimali369)  
+## 📫 Contact Me  
 
+📧 Email: nishsohana@gmail.com  
 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+## 🔗 Connect With Me  
 
+[GitHub](https://github.com/NishatTasnimAli)  
+[LinkedIn](https://www.linkedin.com/in/nishat-tasnim-ali-211968211/)  
+[Instagram](https://www.instagram.com/_nishu404_not_found_/)  
+[YouTube](https://youtube.com/@nishattasnimali369)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![NishatTasnimAli's Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+## 📊 GitHub Stats  
 
-![GitHub metrics](https://metrics.lecoq.io/NishatTasnimAli)  
+![Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)](https://git.io/streak-stats)
+![Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)
+
+![Metrics](https://metrics.lecoq.io/NishatTasnimAli)
+
+---
+
+## 🏆 Achievements  
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)
