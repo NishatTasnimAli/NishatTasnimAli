@@ -60,7 +60,7 @@ Git, GitHub, REST APIs
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+![Nishat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishatTasnimAli&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Streak](https://streak-stats.demolab.com?user=NishatTasnimAli&theme=jolly)
 
@@ -70,4 +70,4 @@ Git, GitHub, REST APIs
 
 ## 🏆 Achievements  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NishatTasnimAli)](https://github.com/ryo-ma/github-profile-trophy)
